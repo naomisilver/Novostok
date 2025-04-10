@@ -44,10 +44,10 @@ It includes:
 ## Licesning
 
 This repository uses dual licensing to distinguish between code/design and written documentation:
--**Software, STL files and hardware diagrams** are licensed under the [MIT License](./LICENSE).
+- **Software, STL files and hardware diagrams** are licensed under the [MIT License](./LICENSE).
 You're free to use, modify and redistribute with attribution.
 
--**Dissertation and supporting documentation** (including the build guide) are licensed uder the [Creative Commons Atrribution-NoDerivitives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
+- **Dissertation and supporting documentation** (including the build guide) are licensed uder the [Creative Commons Atrribution-NoDerivitives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
 You may reference but not alter or redistribute this content without permission. See [`docs/LICENSE.docs`](./docs/LICENSE.docs).
 
 ---
