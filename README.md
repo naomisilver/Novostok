@@ -24,12 +24,10 @@
 📁 archive/           # Old or unused STL models and scripts
 📁 hardware/          # STL files, wiring diagrams, build photos
 📁 firmware/          # Pico and Pi scripts for input and control
-📁 software/          # RetroPie setup scripts, optional demo games
 📁 docs/              # Dissertation PDF, images, and licensing
 📁 assets/            # Branding, media, animations
 📄 LICENSE            # MIT License for software and hardware
 📄 README.md          # This file
-📄 .gitignore
 ```
 
 ## Build guide and documentation
