@@ -4,6 +4,8 @@
 
 > Built to emulate consoles up to the PlayStation 2 with full button parity and minimal latency.
 
+> Informal discussion time, the intention behind this project and the choice to do it was not to make the most amazing emulation console available. So many others have that covered like the [Null2](https://www.null2.co.uk/) and the [RetroLite](https://github.com/StonedEdge/Retro-Lite-CM4) just to name a few. The point was to challenge myself and explore concepts not covered within my discipline at university, to learn something that I might not get the opportunity to otherwise. I could've simply designed and ordered small runs of PCBs and carrier boards to complete this project but aside from the cost likely being far too high for a broke university student, that reduces some of the self imposed complexity or needing to manully juggle complex wire runs and soldering. This approach teaches the very fundementals of 3D modelling/printing, soldering, microelectronics and the intricacies of HCI in DIY devices like this, and personally, this project has satisfied me. The burns, headaches and flux fumes were well worth it as these skills can and will come in handy later in life, even if not in my career.
+
 ---
 
 ## Features
