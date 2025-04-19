@@ -1,0 +1,13 @@
+
+
+[Unit]
+Description=reset raspberry pi pico via GPIO
+After=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /usr/local/bin/pico-reset.py
+RemainAfterExit=true
+
+[Install]
+WantedBy=multi-user.target
