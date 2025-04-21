@@ -56,8 +56,6 @@ You may reference but not alter or redistribute this content without permission.
 
 <p align="center">
   <img src="assets/images/The Novostok 2.jpg" alt="Novostok device assembled" width="750" />
-  <br>
-  <i>TBD</i>
 </p>
 
 
