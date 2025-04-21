@@ -55,7 +55,7 @@ You may reference but not alter or redistribute this content without permission.
 ## Showcase
 
 <p align="center">
-  <img src="docs/images/device_assembled.jpg" alt="Novostok device assembled" width="500" />
+  <img src="assets/images/the novostok.jpg" alt="Novostok device assembled" width="500" />
   <br>
   <i>TBD</i>
 </p>
